@@ -1,19 +1,28 @@
-#CyberShield – Data Breach Response Simulator
+# CyberShield – Data Breach Response Simulator
 
 A Python OOP cybersecurity project that simulates defensive data-breach incident management.
 
-##Features
-Create and classify breach incidents
-Track affected records and exposed data
-Calculate risk score and severity
-Track incident status and timeline
-Generate incident reports
+## Features
 
-##OOP Concepts
-Classes & Objects
-Inheritance
-Polymorphism
-Abstraction
-Encapsulation
-Composition
-Exception Handling
+- Create and classify breach incidents
+- Track affected records and exposed data
+- Calculate risk score and severity
+- Track incident status and timeline
+- Generate incident reports
+
+## OOP Concepts
+
+- Classes & Objects
+- Inheritance
+- Polymorphism
+- Abstraction
+- Encapsulation
+- Composition
+- Exception Handling
+
+## How to Run
+
+Requires Python 3.
+
+```bash
+python main.py
